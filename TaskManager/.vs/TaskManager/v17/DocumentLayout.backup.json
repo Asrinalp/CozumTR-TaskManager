@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Migrations\\20250517193406_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250517193406_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\services\\taskitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:repositories\\itaskitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\taskmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:taskmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\repositories\\taskitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:repositories\\taskitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,12 +63,12 @@
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\taskmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:taskmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
@@ -57,76 +81,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskItemController.cs",
-              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\TaskItemController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TaskItemController.cs",
-              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\TaskItemController.cs",
-              "RelativeToolTip": "Controllers\\TaskItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:55:02.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskItemService.cs",
-              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\TaskItemService.cs",
-              "RelativeDocumentMoniker": "Services\\TaskItemService.cs",
-              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\TaskItemService.cs",
-              "RelativeToolTip": "Services\\TaskItemService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:28:37.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ITaskItemService.cs",
-              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\ITaskItemService.cs",
-              "RelativeDocumentMoniker": "Services\\ITaskItemService.cs",
-              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\ITaskItemService.cs",
-              "RelativeToolTip": "Services\\ITaskItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:28:19.686Z",
+              "WhenOpened": "2025-05-17T19:41:38.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:41:19.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TaskManager.http",
-              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\TaskManager.http",
-              "RelativeDocumentMoniker": "TaskManager.http",
-              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\TaskManager.http",
-              "RelativeToolTip": "TaskManager.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-17T18:19:13.902Z",
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:40:51.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:15:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T18:09:01.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "TaskItemController.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\TaskItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskItemController.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\TaskItemController.cs",
+              "RelativeToolTip": "Controllers\\TaskItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:55:02.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -139,20 +176,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250517193406_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Migrations\\20250517193406_AddUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250517193406_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Migrations\\20250517193406_AddUserTable.cs",
+              "RelativeToolTip": "Migrations\\20250517193406_AddUserTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:34:06.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:09:46.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Models\\AppDbContext.cs",
               "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T18:04:33.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "TaskItemService.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\TaskItemService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskItemService.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\TaskItemService.cs",
+              "RelativeToolTip": "Services\\TaskItemService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:28:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskItemService.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\ITaskItemService.cs",
+              "RelativeDocumentMoniker": "Services\\ITaskItemService.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Services\\ITaskItemService.cs",
+              "RelativeToolTip": "Services\\ITaskItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:28:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITaskItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\ITaskItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITaskItemRepository.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\ITaskItemRepository.cs",
+              "RelativeToolTip": "Repositories\\ITaskItemRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:01:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\TaskItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaskItemRepository.cs",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\TaskItemRepository.cs",
+              "RelativeToolTip": "Repositories\\TaskItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:02:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
@@ -165,46 +280,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\TaskItemRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TaskItemRepository.cs",
-              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\TaskItemRepository.cs",
-              "RelativeToolTip": "Repositories\\TaskItemRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:02:07.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITaskItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\ITaskItemRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ITaskItemRepository.cs",
-              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Repositories\\ITaskItemRepository.cs",
-              "RelativeToolTip": "Repositories\\ITaskItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:01:40.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "TaskItemDto.cs",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\DTOs\\TaskItemDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TaskItemDto.cs",
               "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\DTOs\\TaskItemDto.cs",
               "RelativeToolTip": "DTOs\\TaskItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T17:58:48.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
+              "Title": "TaskManager.http",
+              "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\TaskManager.http",
+              "RelativeDocumentMoniker": "TaskManager.http",
+              "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\TaskManager.http",
+              "RelativeToolTip": "TaskManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-17T18:19:13.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "gitignore",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\gitignore",
               "RelativeDocumentMoniker": "..\\gitignore",
