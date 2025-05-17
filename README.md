@@ -116,14 +116,6 @@ https://localhost:7111/swagger
 
 ---
 
-## Geliştirici
-
-- **Ad Soyad:** Asrın
-- **Amaç:** ÇözümTR firmasının stajyerlik süreci kapsamında görev yönetim API'si oluşturmak.
-- **Yetenekler:** ASP.NET Core, SQL, REST API, GitHub
-
----
-
 ## Mimari
 
 ```

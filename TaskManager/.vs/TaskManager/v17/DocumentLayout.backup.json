@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6669994-7DC7-40BF-9EF9-8615F2A50564}|TaskManager.csproj|c:\\users\\asrin\\desktop\\cozumtr-taskmanager\\taskmanager\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,7 +97,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -179,26 +179,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaskItemController.cs",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\TaskItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskItemController.cs",
               "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\TaskItemController.cs",
               "RelativeToolTip": "Controllers\\TaskItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T18:55:02.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\asrin\\Desktop\\CozumTR-TaskManager\\TaskManager\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T19:15:47.805Z",
               "EditorCaption": ""
