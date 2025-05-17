@@ -1,0 +1,16 @@
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Environment files
+.env
