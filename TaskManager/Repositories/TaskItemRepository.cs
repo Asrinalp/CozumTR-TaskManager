@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
 using TaskManager.Models;
 
 namespace TaskManager.Repositories

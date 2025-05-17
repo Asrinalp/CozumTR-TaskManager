@@ -1,5 +1,4 @@
-﻿// Program.cs
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -24,7 +23,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             },
             OnTokenValidated = context =>
             {
-                Console.WriteLine(" JWT authentication SUCCESSFUL.");
+                Console.WriteLine(" JWT authentication success.");
                 return Task.CompletedTask;
             }
         };

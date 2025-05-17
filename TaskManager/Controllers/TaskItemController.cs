@@ -22,7 +22,7 @@ namespace TaskManager.Controllers
         {
             var username = User.Identity?.Name;
             Console.WriteLine("User: " + username);
-            return Ok("Welcome " + username);
+            return Ok("Welcome user " + username);
         }
 
         [HttpGet]
