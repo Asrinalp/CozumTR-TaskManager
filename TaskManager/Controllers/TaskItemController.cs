@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using TaskManager.DTOs;
 using TaskManager.Services;
 
 namespace TaskManager.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class TaskItemController : ControllerBase
@@ -13,6 +15,14 @@ namespace TaskManager.Controllers
         public TaskItemController(ITaskItemService service)
         {
             _service = service;
+        }
+        // Test endpoint to check if the user is authenticated
+        [HttpGet("test")]
+        public IActionResult Test()
+        {
+            var username = User.Identity?.Name;
+            Console.WriteLine("User: " + username);
+            return Ok("Welcome " + username);
         }
 
         [HttpGet]

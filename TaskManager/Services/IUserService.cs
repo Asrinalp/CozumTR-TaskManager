@@ -7,5 +7,7 @@ namespace TaskManager.Services
     {
         Task<User?> AuthenticateAsync(UserDto dto);
         Task<bool> RegisterAsync(UserDto dto);
+        string GenerateJwtToken(User user);
+
     }
 }
