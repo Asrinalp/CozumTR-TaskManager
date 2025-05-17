@@ -1,4 +1,5 @@
-# Build files
+
+# Build results
 bin/
 obj/
 
@@ -6,7 +7,7 @@ obj/
 *.user
 *.suo
 
-# Visual Studio
+# Visual Studio cache
 .vs/
 
 # Logs
@@ -14,3 +15,7 @@ obj/
 
 # Environment files
 .env
+
+# Others
+*.db
+*.sqlite
